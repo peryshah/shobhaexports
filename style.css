@@ -268,7 +268,7 @@ strong {
     height: 55.28px;
     content: "";
     background: #5e6ef9;
-    clip-path: polygon(100% 0, 0% 100%, 100% 100%);
+    clip-path: polygon(100% 82%, 63% 100%, 100% 100%);
     padding-left: 100%;
     padding-bottom: 0px;
 }
